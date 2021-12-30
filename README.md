@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 杭州图景有限公司
+- 🔭 I’m currently working on 杭州
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me: 13567821774
 
